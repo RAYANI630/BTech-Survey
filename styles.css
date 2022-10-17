@@ -1,0 +1,16 @@
+*{
+    background-color: black;
+    color: greenyellow;
+}
+
+body{
+    text-align: center;
+}
+
+h1{
+    margin-bottom: 100px;
+}
+
+footer{
+    text-align: justify;
+}
